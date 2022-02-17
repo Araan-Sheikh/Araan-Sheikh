@@ -140,6 +140,6 @@
 [facebook]: https://www.facebook.com/
 [twitter]: https://twitter.com/intent/follow?screen_name=Araan_sheikh
 [whatsapp]: https://api.whatsapp.com/send/?phone=..........
-[leetcode]: https://leetcode.com/samirpaul1
-[hackerrank]: https://www.hackerrank.com/samirpaul1
-[codechef]: https://www.codechef.com/users/samirpaul1
+[leetcode]: https://leetcode.com
+[hackerrank]: https://www.hackerrank.com/
+[codechef]: https://www.codechef.com/users/
