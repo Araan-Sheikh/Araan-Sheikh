@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Araan Sheikh</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" src="https://img.decrypt.co/insecure/rs:fit:1920:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/chillguy-gID_7.jpg@webp" alt="Coding" width="360" height="240">
+<img align="right" src="https://img.decrypt.co/insecure/rs:fit:1920:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/chillguy-gID_7.jpg@webp" alt="Chill Guy xD" width="360" height="240">
 
 
 - 🔭 I’m currently working on [is-cod.in org](https://github.com/is-cod-in)
