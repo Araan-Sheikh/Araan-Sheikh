@@ -28,11 +28,23 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           config_display: large
+          config_animations: yes
+          config_gemoji: yes
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_limit: 6
           plugin_languages_sections: most-used
-          plugin_languages_details: percentage
+          plugin_languages_details: percentage, lines
           plugin_languages_colors: github
+          plugin_lines: yes
+          plugin_lines_sections: base, history
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 4
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_visibility: all
 
